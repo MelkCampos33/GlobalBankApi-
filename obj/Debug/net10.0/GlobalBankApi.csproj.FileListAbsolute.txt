@@ -122,3 +122,4 @@ C:\Users\melkc\Documents\programação\GlobalBankApi\obj\Debug\net10.0\refint\Gl
 C:\Users\melkc\Documents\programação\GlobalBankApi\obj\Debug\net10.0\GlobalBankApi.pdb
 C:\Users\melkc\Documents\programação\GlobalBankApi\obj\Debug\net10.0\GlobalBankApi.genruntimeconfig.cache
 C:\Users\melkc\Documents\programação\GlobalBankApi\obj\Debug\net10.0\ref\GlobalBankApi.dll
+C:\Users\melkc\Documents\programação\GlobalBankApi\obj\Debug\net10.0\GlobalBankApi.sourcelink.json

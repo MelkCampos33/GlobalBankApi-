@@ -19,7 +19,7 @@ namespace GlobalBankApi.Controllers
         [HttpPost]
         public async Task<ActionResult<ContaBancaria>> PostConta(ContaBancaria conta)
         {
-            // Regra de negócio: saldo não pode ser negativo na abertura
+            // Rsaldo não pode ser negativo na abertura
             if (conta.Saldo < 0)
             {
                 return BadRequest("O saldo inicial não pode ser negativo para contas internacionais.");
